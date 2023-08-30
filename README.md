@@ -49,3 +49,6 @@ Here are some ideas to get you started:
 ## My Github Stats + Languages & Tools <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=softwaretechit0&custom_title=softwaretechit0&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="SoftwareTechIT github stats" />      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwaretechit0&layout=compact&theme=radical" />
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=softwaretechit0&column=7)](https://github.com/ryo-ma/github-profile-trophy)
