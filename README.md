@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Full+Stack+Developer;Java+Developer;Angular+Developer;Android+Developer;PHP,CSS,Bootstrap,HTML5,Javascript;Content+Creator;SoftwareTechIT.com)
 
 <!--
-**softwaretechit0/SoftwareTechIT0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**softwaretechcode/softwaretechcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### Let's Connect :coffee:
 <hr/>
 <p>
-<a href="https://github.com/softwaretechit0"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://github.com/softwaretechcode"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <!--<a href="https://www.linkedin.com/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>-->
-<a href="https://www.instagram.com/softwaretechit0"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="https://www.instagram.com/softwaretechcode"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
 
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <li>https://home.softwaretechit.com</li>
 
 ## My Github Stats + Languages & Tools <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=softwaretechit0&custom_title=softwaretechit0&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="SoftwareTechIT github stats" />      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwaretechit0&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=softwaretechcode&custom_title=softwaretechcode&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="SoftwareTechIT github stats" />      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwaretechcode&layout=compact&theme=radical" />
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=softwaretechit0&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=softwaretechcode&column=7)](https://github.com/ryo-ma/github-profile-trophy)
